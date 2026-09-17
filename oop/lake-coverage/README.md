@@ -1,0 +1,1 @@
+Para poder ejecutar, extraer los archivos .txt que vienen en los zip y dejarlos en la misma carpeta raiz del script. Luego compilar como normalmente se hace
